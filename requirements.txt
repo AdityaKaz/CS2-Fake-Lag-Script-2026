@@ -1,0 +1,6 @@
+keyboard
+pynput
+opencv-python
+pywin32
+mouse
+rich
